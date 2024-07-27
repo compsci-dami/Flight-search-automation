@@ -1,1 +1,1 @@
-# Flight-search-automation
+# Flight-deals-automation
